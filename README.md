@@ -1,1 +1,1 @@
-# Higg Valley's Django training
+# Higgs Valley's Django training
